@@ -1,3 +1,4 @@
 # Lab1
 my first website
-start learning
+start learning code
+
